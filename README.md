@@ -38,8 +38,8 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/deathstroke-gpt.git
-   cd deathstroke-gpt
+   git clone https://github.com/naakaarafr/Deathstroke-GPT.git
+   cd Deathstroke-GPT
    ```
 
 2. **Install dependencies**
